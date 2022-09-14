@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyCard</string>
     <string name="text_top_text_view">Happy international Women\'s Day!</string>
+    <string name="text_bottom_text_view">from Roman</string>
 </resources>

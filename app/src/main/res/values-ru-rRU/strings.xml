@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя открытка</string>
+    <string name="text_top_text_view">Поздровляем с 8 Марта!</string>
+    <string name="text_bottom_text_view">От Романа</string>
+</resources>
